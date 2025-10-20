@@ -1,4 +1,4 @@
-<h2 align="left">Oi! Meu GitHub é uma mistura de ideias e vontade de aprender. Sejam bem-vindo! ✨💻</h2>
+<h2 align="left">Oi! Meu GitHub é uma mistura de ideias e vontade de aprender. <br>Sejam bem-vindos! ✨💻</h2>
 
 ###
 
@@ -23,10 +23,11 @@
   <a href="https://www.instagram.com/bruna.mandolesi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/bruna-mandolesi-a1869537b" target="_blank">
+  <a href="www.linkedin.com/in/bruna-mandolesi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
